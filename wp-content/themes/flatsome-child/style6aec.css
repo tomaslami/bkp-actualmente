@@ -6,14 +6,9 @@ Template: flatsome
 Version: 3.0
 */
 
-/* .attachment-woocommerce_thumbnail.size-woocommerce_thumbnail {
-  margin-bottom: 0;
-  overflow: visible;
-}
 
-.product-small .box-image {
-  overflow: visible;
-  box-shadow: 0px 0px 22.299999237060547px 0px #00000038;
-  border-radius: 22px;
-  margin-bottom: 40px;
-} */
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}
